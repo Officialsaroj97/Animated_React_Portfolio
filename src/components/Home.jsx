@@ -9,9 +9,11 @@ const Home = () => {
     const options = {
       strings: [
         "Welcome to my profile",
-        "My Name is John Doe",
-        "I'm full stack developer",
-        "Androide Developer (React Native)",
+        "My Name is Saroj",
+        "I'm MERN Full stack developer",
+        "UI/UX Designer",
+        "Graphic Designer",
+        "Content Writer",
       ],
       typeSpeed: 50,
       backSpeed: 50,
@@ -43,6 +45,9 @@ const Home = () => {
           <div className="img" data-aos="fade-up-left" data-aos-duration="1000">
             <img src={`/assets/${hero.imgSrc}`} alt="hero" />
           </div>
+          <span>
+            <h2>Saroj Kumar Yadav</h2>
+          </span>
         </div>
       </div>
     </>

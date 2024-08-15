@@ -20,12 +20,12 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title":"Firebase",
-    "imageSrc":"skills/firebase.png"
+    "title":"Bootstrap",
+    "imageSrc":"skills/bootstrap.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
   },
   {
     "title": "MongoDB",
@@ -34,5 +34,9 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Canva",
+    "imageSrc": "skills/canva.png"
   }
 ]

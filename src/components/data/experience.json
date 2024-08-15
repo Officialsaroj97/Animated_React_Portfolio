@@ -1,41 +1,41 @@
 [
   {
     "id": 1,
-    "role": "Senior Software Development Engineer SDE - II",
-    "organisation": "Google",
-    "startDate": "Sept, 2023",
-    "endDate": "Present",
-    "location": "CA,United State",
+    "role": "Web Developer Internship - I",
+    "organisation": "Web Dude",
+    "startDate": "April, to",
+    "endDate": "May, 2024",
+    "location": "Tamilnadu, India",
     "experiences": [
-      "Worked on Google Gmail",
-      "Worked with the Google Bard Team"
+      "Worked on Basics Web Structure ",
+      "Worked on Basics Restaurant Website"
     ],
-    "imageSrc": "company/google.png"
+    "imageSrc": "company/webdude.png"
   },
   {
     "id": 2,
-    "role": "Software Development Engineer SDE - I",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2022",
-    "endDate": "Aug, 2023",
-    "location": "London, UK",
+    "role": "Associate Developer Internship - II",
+    "organisation": "COSMIC 365",
+    "startDate": "24 July",
+    "endDate": "Dec, 2025",
+    "location": "Tamilnadu, India",
     "experiences": [
-      "Worked on Windows 10 terminal",
-      "Worked on Window 11 Upcoming features"
+      "Worked on Product Development:",
+      "Worked on Designing"
     ],
-    "imageSrc": "company/microsoft.png"
+    "imageSrc": "company/cosmic.png"
   },
   {
     "id": 3,
-    "role": "Software Development Engineer - Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2021",
-    "endDate": "Jun, 2022",
-    "location": "Bengluru, India",
+    "role": "React Developer (Part time)",
+    "organisation": "MITHI Consultancy Services",
+    "startDate": "July, 2024",
+    "endDate": "Present",
+    "location": "Patna, India",
     "experiences": [
-      "Worked on Nextflix payment system",
-      "Helped to create UI for video player"
+      "Worked On Project Development",
+      "Worked On UI/UX Design"
     ],
-    "imageSrc": "company/netflix.png"
+    "imageSrc": "company/mithicon.png"
   }
 ]
