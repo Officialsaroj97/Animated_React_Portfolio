@@ -3,9 +3,9 @@
     "key": 1,
     "title": "Mithi Restaurant",
     "imageSrc": "project/restaurant.png",
-    "description": "This is a project made with complete HTML CSS JS.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made with complete HTML, CSS, JavaScript.",
+    "demo": "https://mithi-restaurant.vercel.app/",
+    "source": "https://github.com/Officialsaroj97/Mithi---Restaurant.git"
   },
   {
     "key": 2,
@@ -36,8 +36,8 @@
     "title": "Graphic Design Sample",
     "imageSrc": "project/graphic1.png",
     "description": "This project is designed at Canva.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://dribbble.com/shots/24692591-MENHOOD-TRIMMER-DESIGN",
+    "source": "https://www.canva.com/design/DAGN19gBfP4/XCidWQ-UFqjolaxZg03e_w/edit?utm_content=DAGN19gBfP4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
   },
   {
     "key": 4,
