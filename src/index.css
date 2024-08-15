@@ -64,6 +64,11 @@ a {
   /* background-color: yellow; */
 }
 
+h2 {
+  margin-top: 20px;
+  font-weight: 800;
+}
+
 .home .right .img img {
   height: 250px;
   width: 250px;
